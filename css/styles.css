@@ -100,7 +100,7 @@ body {
   background: var(--dark);
 }
 .main-btn {
-  font-family: "inherit";
+  font-family: inherit;
   font-weight: 600;
   font-size: 16px;
   line-height: 1.18;
@@ -157,13 +157,14 @@ body {
   background: #ffffff;
 }
 .name-guys {
-  font-weight: 600;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--dark);
 }
 .specialty-guys {
+  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
@@ -212,7 +213,7 @@ body {
 }
 
 .dev-name {
-  font-weight: 600;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -220,6 +221,7 @@ body {
 }
 
 .dev-name-list {
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
   letter-spacing: 0.02em;
